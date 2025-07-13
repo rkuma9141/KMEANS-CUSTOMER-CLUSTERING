@@ -70,7 +70,8 @@ It was developed as part of a Machine Learning Internship task.
 
 - *Name*: Raviranjan Kumar  
 - *GitHub*: [github.com/Raviranjan-Kumar](https://github.com/rkuma9141/kmeans-customer-clustering)
-- *LinkedIn: [linkedin.com/in/your-profile](#) *(← Replace with your actual profile link)
+- *LinkedIn: [linkedin.com/in/your-profile](#) *(linkedin.com/in/raviranjan-kumar-92193b304)
+Phone)
 
 ---
 
